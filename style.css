@@ -43,7 +43,28 @@ table {
   width: 50rem;
   height: 35rem;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.3rem;
 }
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+.arts-content {
+  display: inline-flex;
+  width: 100%;
+  margin-top: 3rem;
+}
+.arts-content img {
+  width: 30%;
+  display: inline-flex;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+.arts-content .description {
+  display: inline-block;
+  width: 70%;
+}
+.arts-content .description div {
+  display: block !important;
 }

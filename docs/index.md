@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SENG 513</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+
+    <nav>
+      <ul>
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="arts.html">Arts</a></li>
+        <li><a href="fine_arts.html">Fine Arts</a></li>
+        <li><a href="language.html">Language</a></li>
+        <li><a href="science.html">Science</a></li>
+      </ul>
+    </nav>
+
+    <div class="main-content">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/UofCCoat.svg/1200px-UofCCoat.svg.png" class="uofc_logo" alt="">
+
+      <table>
+        <tr>
+          <th>Grade</th>
+          <th>GPA</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td>A+</td>
+          <td>4.0</td>
+          <td>Outstanding</td>
+        </tr>
+        <tr>
+          <td>A</td>
+          <td>4.0</td>
+          <td>Excellent</td>
+        </tr>
+        <tr>
+          <td>A-</td>
+          <td>3.7</td>
+          <td>A little below excellent</td>
+        </tr>
+        <tr>
+          <td>B+</td>
+          <td>3.3</td>
+          <td>A little better than good</td>
+        </tr>
+        <tr>
+          <td>B</td>
+          <td>3.0</td>
+          <td>Good</td>
+        </tr>
+        <tr>
+          <td>B-</td>
+          <td>2.7</td>
+          <td>A little below good</td>
+        </tr>
+        <tr>
+          <td>C+</td>
+          <td>2.3</td>
+          <td>A little better than satisfactory</td>
+        </tr>
+        <tr>
+          <td>C</td>
+          <td>2.0</td>
+          <td>Satisfactory</td>
+        </tr>
+        <tr>
+          <td>C-</td>
+          <td>1.7</td>
+          <td>A little below satisfactory</td>
+        </tr>
+        <tr>
+          <td>D+</td>
+          <td>1.3</td>
+          <td>A little above minimal pass</td>
+        </tr>
+        <tr>
+          <td>D</td>
+          <td>1.0</td>
+          <td>Minimal Pass</td>
+        </tr>
+      </table>
+    </div>
+
+
+
+  </body>
+</html>

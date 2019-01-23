@@ -91,5 +91,32 @@ tr:nth-child(even) {
   font-weight: bold;
 }
 
-.contact-info li a {
+.kines-content {
+  margin-top: 3rem;
+  display: block;
+}
+.kines-content .row {
+  display: inline-flex;
+  margin-bottom: 1rem;
+}
+.kines-content .row .left {
+  width: 30%;
+  display: inline-flex;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+.kines-content .row .right {
+  width: 30%;
+  display: inline-flex;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+}
+.kines-content p {
+  width: 70%;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.5rem 1rem 1rem 1rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }

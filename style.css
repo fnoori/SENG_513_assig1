@@ -120,3 +120,44 @@ tr:nth-child(even) {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
+.language-content {
+  display: block;
+  width: 100%;
+  margin-top: 3rem;
+}
+.language-content .row {
+  display: inline-flex;
+}
+.language-content img {
+  width: 30%;
+  display: inline-flex;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 0.5rem;
+}
+.language-content p {
+  display: inline-block;
+  width: 70%;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+.science-content {
+  margin-top: 3rem;
+}
+.science-content .img-grid {
+  text-align: center;
+}
+.science-content .row {
+
+}
+.science-content .row img {
+  width: 10rem;
+  margin: 1rem;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 1rem;
+}
+.science-content p {
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  padding: 1rem;
+}

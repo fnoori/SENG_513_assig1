@@ -67,6 +67,8 @@ tr:nth-child(even) {
   width: 70%;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 0rem 1rem 1rem 1rem;
+  background-color: #4CAF50;
+  color: white;
 }
 .arts-content .description div {
   display: block !important;
@@ -121,6 +123,8 @@ tr:nth-child(even) {
   padding: 0.5rem 1rem 1rem 1rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  background-color: #F44336;
+  color: white;
 }
 
 .language-content {
@@ -143,6 +147,8 @@ tr:nth-child(even) {
   width: 70%;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 1rem 1rem 1rem 1rem;
+  background-color: #64B5F6;
+  color: white;
 }
 
 .science-content {
@@ -164,4 +170,6 @@ tr:nth-child(even) {
 .science-content p {
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 1rem;
+  background-color: #4DB6AC;
+  color: white;
 }

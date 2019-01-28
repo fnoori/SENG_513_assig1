@@ -60,6 +60,7 @@ tr:nth-child(even) {
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 0.5rem;
   margin-right: 0.5rem;
+  align-self: center;
 }
 .arts-content .description {
   display: inline-block;
@@ -105,6 +106,7 @@ tr:nth-child(even) {
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 0.5rem;
   margin-right: 0.5rem;
+  align-self: center;
 }
 .kines-content .row .right {
   width: 30%;
@@ -134,6 +136,7 @@ tr:nth-child(even) {
   display: inline-flex;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 0.5rem;
+  align-self: center;
 }
 .language-content p {
   display: inline-block;
@@ -156,6 +159,7 @@ tr:nth-child(even) {
   margin: 1rem;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
   padding: 1rem;
+  align-self: center;
 }
 .science-content p {
   box-shadow: 0 0 1px rgba(0,0,0,.15);
